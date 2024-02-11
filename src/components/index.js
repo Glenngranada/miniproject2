@@ -1,0 +1,7 @@
+export {default as NavBar} from './NavBar'
+export {default as Home} from './Home'
+// export {default as Search} from './Search'
+// export {default as Channel} from './Channel'
+// export {default as Video} from './Video'
+// export {default as SearchBar} from './SearchBar'
+// export {default as SideBar} from './SideBar'
